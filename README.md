@@ -1,2 +1,3 @@
-# XGBoost-Credit-Scoring-Model-Optimization
-Optimizing XGBoost credit scoring using SMOTE-ENN &amp; CTGAN to resolve class imbalance, plus attention mechanisms for interpretability. Achieves 0.853 AUC, >80% recall, aiding financial risk decisions.
+# Explainable Credit Risk Prediction Using XGBoost
+
+A credit default prediction project using XGBoost on the Give Me Some Credit dataset. It investigates SMOTE-ENN and CTGAN sampling strategies to address class imbalance, achieves a ROC-AUC of 0.853 with the combined approach, and uses SHAP to interpret feature contributions in the baseline model.
